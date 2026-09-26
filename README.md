@@ -73,7 +73,6 @@ Aplicación móvil y API para digitalizar la asignación y atención de turnos e
 
 Sistema web que centraliza las hojas de vida y los procesos de escalafón de los docentes de una universidad, que antes no contaba con un sistema para esto. Facilita la consulta, actualización y gestión de la información académica y profesional.
  
-Incluye autenticación con JWT e inicio de sesión con cuentas externas (OAuth), roles y permisos, generación y edición de PDF, importación y exportación de Excel, y una API documentada con Swagger.
  
 **Rol:** Desarrollo de software
 **Backend:** PHP 8.2, Laravel 12, PostgreSQL, JWT, PHPUnit
