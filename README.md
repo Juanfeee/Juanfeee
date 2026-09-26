@@ -1,11 +1,11 @@
 # Hola, soy Juan Felipe Benavides
- 
+
 **Desarrollador de software**
- 
+
 Me gusta crear software que resuelva problemas reales. Desarrollo aplicaciones web, móviles y backend, con especial interés en la automatización de procesos y la **inteligencia artificial aplicada**.
- 
+
 Disfruto aprender tecnologías nuevas y construir herramientas útiles para personas y organizaciones.
- 
+
 * **Ingeniería de Software y Computación** (9 semestres cursados)
 * **Técnico en Instalación de Redes de Computadores**
 * Popayán, Cauca, Colombia
@@ -58,27 +58,42 @@ Disfruto aprender tecnologías nuevas y construir herramientas útiles para pers
 ## Proyectos destacados
 
 ### SIGETU — Sistema Integral de Gestión de Turnos Universitarios
- 
-Aplicación móvil y API para digitalizar la asignación y atención de turnos en una universidad. Organiza la atención por sedes y servicios, y reduce los procesos manuales para estudiantes y personal administrativo.
- 
-**Rol:** Desarrollo de software en equipo · **Estado:** Desarrollo finalizado, pendiente de despliegue
-**Tecnologías:** Flutter, FastAPI, PostgreSQL, Docker, Firebase
- 
-[Ver proyecto](https://github.com/SIGETU-Sistema-de-gestion-de-turnos/sigetu-monorepo)
- 
+
+Aplicación móvil y API para digitalizar la asignación y atención de turnos en la **Corporación Universitaria Autónoma del Cauca**. Organiza la atención por sedes y servicios, y reduce los procesos manuales para estudiantes y personal administrativo.
+
+- **Rol:** Desarrollador · trabajo en equipo
+- **Estado:** Desarrollo finalizado, pendiente de despliegue
+- **Enlace:** [Ver repositorio](https://github.com/SIGETU-Sistema-de-gestion-de-turnos/sigetu-monorepo)
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 > Software en proceso de registro ante la Dirección Nacional de Derecho de Autor (DNDA).
+
 ---
 
 ### UniDoc — Hojas de vida y escalafón docente
 
-Sistema web que centraliza las hojas de vida y los procesos de escalafón de los docentes de una universidad, que antes no contaba con un sistema para esto. Facilita la consulta, actualización y gestión de la información académica y profesional.
- 
- 
-**Rol:** Desarrollo de software
-**Backend:** PHP 8.2, Laravel 12, PostgreSQL, JWT, PHPUnit
-**Frontend:** React 19, TypeScript, Vite, Tailwind CSS, Material UI, React Hook Form + Zod, TanStack Table
+Sistema web que centraliza las hojas de vida y los procesos de escalafón de los docentes de la **Corporación Universitaria Autónoma del Cauca**, que antes no contaba con un sistema para esto. Facilita la consulta, actualización y gestión de la información académica y profesional.
 
-[Ver proyecto](https://nova.uniautonoma.edu.co/convocatorias-app/)
+- **Rol:** Desarrollador
+- **Estado:** En producción
+- **Enlace:** [Ver en producción](https://nova.uniautonoma.edu.co/convocatorias-app/)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -86,19 +101,23 @@ Sistema web que centraliza las hojas de vida y los procesos de escalafón de los
 
 Plataforma multi-tenant para **barberías, salones de belleza, spas y negocios de uñas**. Cada negocio administra sus sedes, servicios, precios y horarios, y sus clientes pueden reservar, reprogramar y cancelar citas directamente por **WhatsApp**.
 
-**Rol:** Desarrollador Full Stack (proyecto individual) · **Estado:** En desarrollo
-**Tecnologías:** React, TypeScript, Python, PostgreSQL, Docker
-**Integraciones:** WhatsApp Cloud API y WhatsApp Flows
+- **Rol:** Desarrollador Full Stack · proyecto individual
+- **Estado:** En desarrollo
+- **Enlace:** Próximamente
 
-[Ver proyecto]()
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![WhatsApp Cloud API](https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 ---
 
 ## Actualmente
 
 * **Yasta:** llevando la plataforma a producción.
-* **SIGETU:** desarrollo de la gestión de turnos universitarios.
-* **Docencia:** enseño desarrollo web, programación, matemáticas e introducción a la IA, con el objetivo de que mis estudiantes **construyan soluciones para problemas reales**.
+* **SIGETU:** preparando el despliegue a producción.
 
 ---
 
