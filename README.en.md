@@ -144,6 +144,7 @@ Corporación Universitaria Autónoma del Cauca
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:juanfelipebenavides71@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-felipe-benavides-hoyos-9b226b1b0/)
+
 **Email:** juanfelipebenavides71@gmail.com
 
 Want to talk about software development or collaborate on a project? Get in touch.
