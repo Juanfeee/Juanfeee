@@ -1,6 +1,6 @@
 <p align="right"><b>Español</b> · <a href="README.en.md">English</a></p>
-# Hola, soy Juan Felipe Benavides
 
+# Hola, soy Juan Felipe Benavides
 **Desarrollador de software**
 
 Me gusta crear software que resuelva problemas reales. Desarrollo aplicaciones web, móviles y backend, con especial interés en la automatización de procesos y la **inteligencia artificial aplicada**.
