@@ -1,15 +1,14 @@
-# Hola, soy Juan Felipe Benavides Hoyos
-
-**Desarrollador de software · Estudiante de Ingeniería de Software y Computación · Docente de sistemas y matemáticas**
-
-Construyo aplicaciones y sistemas que resuelven **problemas reales de gestión, educación y automatización**.
-
-He desarrollado soluciones web, móviles y backend para la gestión de turnos, hojas de vida, escalafones docentes y agendamiento de citas. También trabajo en proyectos de **inteligencia artificial aplicada al desarrollo y la educación**.
-
+# Hola, soy Juan Felipe Benavides
+ 
+**Desarrollador de software**
+ 
+Me gusta crear software que resuelva problemas reales. Desarrollo aplicaciones web, móviles y backend, con especial interés en la automatización de procesos y la **inteligencia artificial aplicada**.
+ 
+Disfruto aprender tecnologías nuevas y construir herramientas útiles para personas y organizaciones.
+ 
 * **Ingeniería de Software y Computación** (9 semestres cursados)
 * **Técnico en Instalación de Redes de Computadores**
-* **Docente de sistemas y matemáticas**
-* Timbío, Cauca, Colombia
+* Popayán, Cauca, Colombia
 
 ---
 
@@ -54,37 +53,33 @@ He desarrollado soluciones web, móviles y backend para la gestión de turnos, h
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
-### Inteligencia artificial
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-Desarrollo asistido por IA con **GitHub Copilot, Claude Code** y modelos locales con **Ollama**.
-
 ---
 
 ## Proyectos destacados
 
 ### SIGETU — Sistema Integral de Gestión de Turnos Universitarios
-
+ 
 Aplicación móvil y API para digitalizar la asignación y atención de turnos en una universidad. Organiza la atención por sedes y servicios, y reduce los procesos manuales para estudiantes y personal administrativo.
-
-**Rol:** Desarrollo de software en equipo · **Estado:** En desarrollo
+ 
+**Rol:** Desarrollo de software en equipo · **Estado:** Desarrollo finalizado, pendiente de despliegue
 **Tecnologías:** Flutter, FastAPI, PostgreSQL, Docker, Firebase
-
-[Ver proyecto](https://github.com/TU_USUARIO/sigetu)
-
+ 
+[Ver proyecto](https://github.com/SIGETU-Sistema-de-gestion-de-turnos/sigetu-monorepo)
+ 
 > Software en proceso de registro ante la Dirección Nacional de Derecho de Autor (DNDA).
-
 ---
 
 ### UniDoc — Hojas de vida y escalafón docente
 
 Sistema web que centraliza las hojas de vida y los procesos de escalafón de los docentes de una universidad, que antes no contaba con un sistema para esto. Facilita la consulta, actualización y gestión de la información académica y profesional.
-
+ 
+Incluye autenticación con JWT e inicio de sesión con cuentas externas (OAuth), roles y permisos, generación y edición de PDF, importación y exportación de Excel, y una API documentada con Swagger.
+ 
 **Rol:** Desarrollo de software
-**Tecnologías:** React, TypeScript, Python, SQL
+**Backend:** PHP 8.2, Laravel 12, PostgreSQL, JWT, PHPUnit
+**Frontend:** React 19, TypeScript, Vite, Tailwind CSS, Material UI, React Hook Form + Zod, TanStack Table
 
-[Ver proyecto](https://github.com/TU_USUARIO/unidoc)
+[Ver proyecto](https://nova.uniautonoma.edu.co/convocatorias-app/)
 
 ---
 
@@ -92,13 +87,11 @@ Sistema web que centraliza las hojas de vida y los procesos de escalafón de los
 
 Plataforma multi-tenant para **barberías, salones de belleza, spas y negocios de uñas**. Cada negocio administra sus sedes, servicios, precios y horarios, y sus clientes pueden reservar, reprogramar y cancelar citas directamente por **WhatsApp**.
 
-Es la evolución de mi primer **Gestor de Citas**, una aplicación web donde trabajé autenticación, usuarios, disponibilidad y servicios.
-
 **Rol:** Desarrollador Full Stack (proyecto individual) · **Estado:** En desarrollo
 **Tecnologías:** React, TypeScript, Python, PostgreSQL, Docker
 **Integraciones:** WhatsApp Cloud API y WhatsApp Flows
 
-[Ver proyecto](https://github.com/TU_USUARIO/yasta)
+[Ver proyecto]()
 
 ---
 
@@ -106,7 +99,6 @@ Es la evolución de mi primer **Gestor de Citas**, una aplicación web donde tra
 
 * **Yasta:** llevando la plataforma a producción.
 * **SIGETU:** desarrollo de la gestión de turnos universitarios.
-* **IA aplicada:** agentes y sistemas multiagente con **LangChain y LangGraph**, y sistemas educativos que personalizan el aprendizaje.
 * **Docencia:** enseño desarrollo web, programación, matemáticas e introducción a la IA, con el objetivo de que mis estudiantes **construyan soluciones para problemas reales**.
 
 ---
@@ -130,10 +122,10 @@ Corporación Universitaria Autónoma del Cauca
 
 ## Contacto
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:TU_CORREO@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_PERFIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:juanfelipebenavides71@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-felipe-benavides-hoyos-9b226b1b0/)
 
-¿Hablamos de desarrollo de software, educación o colaboración en proyectos? Escríbeme.
+¿Hablamos de desarrollo de software o colaboración en proyectos? Escríbeme.
 
 ---
 
