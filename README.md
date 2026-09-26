@@ -132,9 +132,9 @@ Corporación Universitaria Autónoma del Cauca
 
 ## GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&locale=es&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juanfeee&show_icons=true&locale=es&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&locale=es&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanfeee&layout=compact&locale=es&hide_border=true)
 
 ---
 
