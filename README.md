@@ -1,5 +1,3 @@
-![Contribuciones](https://ghchart.rshah.org/Juanfeee)
-
 <p align="right"><b>Español</b> · <a href="README.en.md">English</a></p>
 
 # Hola, soy Juan Felipe Benavides
